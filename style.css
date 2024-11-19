@@ -141,6 +141,10 @@ header nav{
 .card-images:hover > :first-child{
     filter: brightness(60%);
 }
+.card-images:hover > *{
+    visibility: visible;
+    display: inline;
+}
 
 .oculto1{
     position: absolute;
