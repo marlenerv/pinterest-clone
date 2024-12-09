@@ -25,7 +25,7 @@ header nav{
 
 .button{
     position: absolute;
-    left: 55%;
+    left: 56%;
     top: 5%;
     padding: 13px 15px;
     background-color: #e60023;
@@ -148,7 +148,7 @@ header nav{
 
 .oculto1{
     position: absolute;
-    left: 60%;
+    left: 57%;
     bottom: 20px;
     background-color: white;
     font-size: 30px;
@@ -162,7 +162,7 @@ header nav{
 
 .oculto2{
     position: absolute;
-    left: 78%;
+    left: 75%;
     bottom: 20px;
     background-color: white;
     font-size: 30px;
